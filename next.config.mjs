@@ -6,12 +6,7 @@ const withNextIntl = createNextIntlPlugin();
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  trailingSlash: true,
-  images: {
-    unoptimized: true,
-  },
-
+ 
   eslint: {
     // خطاهای ESLint رو در بیلد نادیده بگیر
     ignoreDuringBuilds: true,
