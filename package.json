@@ -38,7 +38,7 @@
     "jalali-moment": "^3.3.11",
     "lodash": "^4.17.21",
     "marked": "^14.1.2",
-    "next": "15.2.4",
+    "next": "15.2.6",
     "next-auth": "^5.0.0-beta.25",
     "next-intl": "^3.26.2",
     "react": "19.0.0",
